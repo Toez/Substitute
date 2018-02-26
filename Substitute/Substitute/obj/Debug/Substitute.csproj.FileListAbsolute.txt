@@ -1,0 +1,24 @@
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\bin\Debug\Substitute.exe.config
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\bin\Debug\Config.xml
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\bin\Debug\Substitute.exe
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\bin\Debug\Substitute.pdb
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\obj\Debug\Substitute.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\obj\Debug\Substitute.exe
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\obj\Debug\Substitute.pdb
+C:\Users\Tommy\Desktop\Substitute\Substitute\bin\Debug\Substitute.exe.config
+C:\Users\Tommy\Desktop\Substitute\Substitute\obj\Debug\Substitute.exe
+C:\Users\Tommy\Desktop\Substitute\Substitute\obj\Debug\Substitute.pdb
+C:\Users\Tommy\Desktop\Substitute\Substitute\bin\Debug\Config.xml
+C:\Users\Tommy\Desktop\Substitute\Substitute\bin\Debug\Substitute.exe
+C:\Users\Tommy\Desktop\Substitute\Substitute\bin\Debug\Substitute.pdb
+C:\Users\Tommy\Desktop\Substitute\Substitute\obj\Debug\Substitute.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\bin\Debug\Substitute.exe.config
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\obj\Debug\Substitute.exe
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\obj\Debug\Substitute.pdb
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\bin\Debug\Config.xml
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\bin\Debug\Substitute.exe
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\bin\Debug\Substitute.pdb
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\obj\Debug\Substitute.csprojResolveAssemblyReference.cache
+C:\Users\tommy\OneDrive\Documenten\Stage\Substitute\Substitute\bin\Debug\Substitute.exe.config
+C:\Users\tommy\OneDrive\Documenten\Stage\Substitute\Substitute\obj\Debug\Substitute.exe
+C:\Users\tommy\OneDrive\Documenten\Stage\Substitute\Substitute\obj\Debug\Substitute.pdb

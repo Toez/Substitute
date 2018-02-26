@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+	<TOOLS>
+		<!--Tools with replace text-->
+		<TOOL>
+			<!--ID of tool-->
+			<ID>1</ID>
+			<!--Subcall replace text-->
+			<SELECT>G61&#xD;&#xA;F#501T#601&#xD;&#xA;G04X1.000&#xD;&#xA;M60&#xD;&#xA;M46&#xD;&#xA;T3015&#xD;&#xA;T4070</SELECT>
+			<!--Pen down replace text-->
+			<ON>S200&#xD;&#xA;M42&#xD;&#xA;M03G04X0.000</ON>
+			<!--Pen up replace text-->
+			<OFF>G04X0.000M05&#xD;&#xA;M41</OFF>
+			<!--Value of F in X axis positive-->
+			<SPEEDXP1>501</SPEEDXP1>
+			<!--Value of T in X axis positive-->
+			<SPEEDXP2>601</SPEEDXP2>
+			<!--Value of F in Y axis positive-->
+			<SPEEDYP1>502</SPEEDYP1>
+			<!--Value of T in Y axis positive-->
+			<SPEEDYP2>602</SPEEDYP2>
+			<!--Value of F in X axis negative-->
+			<SPEEDXN1>503</SPEEDXN1>
+			<!--Value of T in X axis negative-->
+			<SPEEDXN2>603</SPEEDXN2>
+			<!--Value of F in Y axis negative-->
+			<SPEEDYN1>504</SPEEDYN1>
+			<!--Value of T in Y axis negative-->
+			<SPEEDYN2>604</SPEEDYN2>
+			<!--Value of F in arc-->
+			<ARCF>505</ARCF>
+			<!--Value of T in arc-->
+			<ARCT>605</ARCT>
+		</TOOL>
+		<TOOL>
+			<ID>2</ID>
+			<SELECT>G64&#xD;&#xA;F#506T#606&#xD;&#xA;G04X1.000&#xD;&#xA;M60&#xD;&#xA;M46&#xD;&#xA;M41</SELECT>
+			<ON>S1650&#xD;&#xA;M03G04X0.100</ON>
+			<OFF>G04X0.000M05</OFF>
+			<SPEEDXP1>506</SPEEDXP1>
+			<SPEEDXP2>606</SPEEDXP2>
+			<SPEEDYP1>507</SPEEDYP1>
+			<SPEEDYP2>607</SPEEDYP2>
+			<SPEEDXN1>508</SPEEDXN1>
+			<SPEEDXN2>608</SPEEDXN2>
+			<SPEEDYN1>509</SPEEDYN1>
+			<SPEEDYN2>609</SPEEDYN2>
+			<ARCF>510</ARCF>
+			<ARCT>610</ARCT>
+		</TOOL>
+		<TOOL>
+			<ID>3</ID>
+			<SELECT>G64&#xD;&#xA;F#511T#611&#xD;&#xA;G04X1.000&#xD;&#xA;M60&#xD;&#xA;M46&#xD;&#xA;M41</SELECT>
+			<ON>S1650&#xD;&#xA;M03G04X0.100</ON>
+			<OFF>G04X0.000M05</OFF>
+			<SPEEDXP1>511</SPEEDXP1>
+			<SPEEDXP2>611</SPEEDXP2>
+			<SPEEDYP1>512</SPEEDYP1>
+			<SPEEDYP2>612</SPEEDYP2>
+			<SPEEDXN1>513</SPEEDXN1>
+			<SPEEDXN2>613</SPEEDXN2>
+			<SPEEDYN1>514</SPEEDYN1>
+			<SPEEDYN2>614</SPEEDYN2>
+			<ARCF>515</ARCF>
+			<ARCT>615</ARCT>
+		</TOOL>
+		<TOOL>
+			<ID>4</ID>
+			<SELECT>G64&#xD;&#xA;F#516T#616&#xD;&#xA;G04X1.000&#xD;&#xA;M60&#xD;&#xA;M46&#xD;&#xA;M41</SELECT>
+			<ON>S1650&#xD;&#xA;M03G04X0.100</ON>
+			<OFF>G04X0.000M05</OFF>
+			<SPEEDXP1>516</SPEEDXP1>
+			<SPEEDXP2>616</SPEEDXP2>
+			<SPEEDYP1>517</SPEEDYP1>
+			<SPEEDYP2>617</SPEEDYP2>
+			<SPEEDXN1>518</SPEEDXN1>
+			<SPEEDXN2>618</SPEEDXN2>
+			<SPEEDYN1>519</SPEEDYN1>
+			<SPEEDYN2>619</SPEEDYN2>
+			<ARCF>520</ARCF>
+			<ARCT>620</ARCT>
+		</TOOL>
+		<TOOL>
+			<ID>5</ID>
+			<SELECT>G64&#xD;&#xA;F#521T#621&#xD;&#xA;G04X1.000&#xD;&#xA;M60&#xD;&#xA;M46&#xD;&#xA;M41</SELECT>
+			<ON>S1650&#xD;&#xA;M03G04X0.100</ON>
+			<OFF>G04X0.000M05</OFF>
+			<SPEEDXP1>521</SPEEDXP1>
+			<SPEEDXP2>621</SPEEDXP2>
+			<SPEEDYP1>522</SPEEDYP1>
+			<SPEEDYP2>622</SPEEDYP2>
+			<SPEEDXN1>523</SPEEDXN1>
+			<SPEEDXN2>623</SPEEDXN2>
+			<SPEEDYN1>524</SPEEDYN1>
+			<SPEEDYN2>624</SPEEDYN2>
+			<ARCF>525</ARCF>
+			<ARCT>625</ARCT>
+		</TOOL>
+		<TOOL>
+			<ID>6</ID>
+			<SELECT>G64&#xD;&#xA;F#526T#626&#xD;&#xA;G04X1.000&#xD;&#xA;M60&#xD;&#xA;M46&#xD;&#xA;M41</SELECT>
+			<ON>S650&#xD;&#xA;M03G04X0.100</ON>
+			<OFF>G04X0.000M05</OFF>
+			<SPEEDXP1>526</SPEEDXP1>
+			<SPEEDXP2>626</SPEEDXP2>
+			<SPEEDYP1>527</SPEEDYP1>
+			<SPEEDYP2>627</SPEEDYP2>
+			<SPEEDXN1>528</SPEEDXN1>
+			<SPEEDXN2>628</SPEEDXN2>
+			<SPEEDYN1>529</SPEEDYN1>
+			<SPEEDYN2>629</SPEEDYN2>
+			<ARCF>530</ARCF>
+			<ARCT>630</ARCT>
+		</TOOL>
+		<TOOL>
+			<ID>7</ID>
+			<SELECT>G64&#xD;&#xA;F#531T#631&#xD;&#xA;G04X1.000&#xD;&#xA;M60&#xD;&#xA;M46&#xD;&#xA;M41</SELECT>
+			<ON>S1650&#xD;&#xA;M03G04X0.100</ON>
+			<OFF>G04X0.000M05</OFF>
+			<SPEEDXP1>531</SPEEDXP1>
+			<SPEEDXP2>631</SPEEDXP2>
+			<SPEEDYP1>532</SPEEDYP1>
+			<SPEEDYP2>632</SPEEDYP2>
+			<SPEEDXN1>533</SPEEDXN1>
+			<SPEEDXN2>633</SPEEDXN2>
+			<SPEEDYN1>534</SPEEDYN1>
+			<SPEEDYN2>634</SPEEDYN2>
+			<ARCF>535</ARCF>
+			<ARCT>635</ARCT>
+		</TOOL>
+		<TOOL>
+			<ID>8</ID>
+			<SELECT>G61&#xD;&#xA;F#536T#636&#xD;&#xA;G04X1.000&#xD;&#xA;M60&#xD;&#xA;M46&#xD;&#xA;M41</SELECT>
+			<ON>S200&#xD;&#xA;M03G04X0.100</ON>
+			<OFF>G04X0.000M05</OFF>
+			<SPEEDXP1>536</SPEEDXP1>
+			<SPEEDXP2>636</SPEEDXP2>
+			<SPEEDYP1>537</SPEEDYP1>
+			<SPEEDYP2>637</SPEEDYP2>
+			<SPEEDXN1>538</SPEEDXN1>
+			<SPEEDXN2>638</SPEEDXN2>
+			<SPEEDYN1>539</SPEEDYN1>
+			<SPEEDYN2>639</SPEEDYN2>
+			<ARCF>540</ARCF>
+			<ARCT>640</ARCT>
+		</TOOL>
+	</TOOLS>
+	<STEELTOOLS>
+		<TOOL>
+			<ID>1</ID>
+			<PD>M98P11</PD>
+			<PU>M98P10</PU>
+		</TOOL>
+		<TOOL>
+			<ID>2</ID>
+			<PD>M98P21</PD>
+			<PU>M98P20</PU>
+		</TOOL>
+		<TOOL>
+			<ID>3</ID>
+			<PD>M98P31</PD>
+			<PU>M98P30</PU>
+		</TOOL>
+	</STEELTOOLS>
+		<!--All references to detect commands-->
+	<REFS>
+		<!--Line commands-->
+		<LINE>G00, G01, G1</LINE>
+		<!--Arc commands-->
+		<ARC>G02, G2, G03, G3</ARC>
+		<!--Start of box or section command-->
+		<SUBS>DFS,P, $PROGIN, %, O, P</SUBS>
+		<!--End of box or section command-->
+		<SUBE>M30</SUBE>
+		<!--Pen down command-->
+		<PD>PD</PD>
+		<!--Pen up command-->
+		<PU>PU</PU>
+		<!--Sub call command-->
+		<SUBC>Q</SUBC>
+		<!--Pen command to correct misplaced tools-->
+		<PEN>M98P</PEN>
+		<!--Skips these lines-->
+		<SKIP>M98P8010</SKIP>
+		<!--Angle of arc formula-->
+		<ANGLE>F#xT#y</ANGLE>
+	</REFS>
+	<PATHS>
+		<!--Path of log file-->
+		<LOG>.\Logfile.txt</LOG>
+	</PATHS>
+</ROOT>

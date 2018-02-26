@@ -1,0 +1,20 @@
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\bin\Release\Substitute.exe.config
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\bin\Release\Config.xml
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\bin\Release\Substitute.exe
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\bin\Release\Substitute.pdb
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\obj\Release\Substitute.exe
+c:\users\tommy\documents\visual studio 2013\Projects\Substitute\Substitute\obj\Release\Substitute.pdb
+C:\Users\Tommy\Desktop\Substitute\Substitute\bin\Release\Substitute.exe.config
+C:\Users\Tommy\Desktop\Substitute\Substitute\obj\Release\Substitute.exe
+C:\Users\Tommy\Desktop\Substitute\Substitute\obj\Release\Substitute.pdb
+C:\Users\Tommy\Desktop\Substitute\Substitute\bin\Release\Config.xml
+C:\Users\Tommy\Desktop\Substitute\Substitute\bin\Release\Substitute.exe
+C:\Users\Tommy\Desktop\Substitute\Substitute\bin\Release\Substitute.pdb
+C:\Users\Tommy\Desktop\Substitute\Substitute\obj\Release\Substitute.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\bin\Release\Substitute.exe.config
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\obj\Release\Substitute.exe
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\obj\Release\Substitute.pdb
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\bin\Release\Config.xml
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\bin\Release\Substitute.exe
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\bin\Release\Substitute.pdb
+C:\Users\Tommy\Desktop\Stage\Substitute\Substitute\obj\Release\Substitute.csprojResolveAssemblyReference.cache
